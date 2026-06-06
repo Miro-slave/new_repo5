@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>P001</Id>
+    <Name>Яблоки "Гренни Смит"</Name>
+    <Price>159.99</Price>
+    <Stock>150</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>8</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P002</Id>
+    <Name>Бананы</Name>
+    <Price>129.99</Price>
+    <Stock>200</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P003</Id>
+    <Name>Хлеб "Бородинский"</Name>
+    <Price>65.50</Price>
+    <Stock>45</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P004</Id>
+    <Name>Молоко "Простоквашино" 3.2%</Name>
+    <Price>89.90</Price>
+    <Stock>30</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P005</Id>
+    <Name>Сыр "Российский" 50%</Name>
+    <Price>599.99</Price>
+    <Stock>25</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P006</Id>
+    <Name>Колбаса "Докторская"</Name>
+    <Price>499.00</Price>
+    <Stock>40</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P007</Id>
+    <Name>Печенье "Юбилейное"</Name>
+    <Price>120.00</Price>
+    <Stock>59</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P008</Id>
+    <Name>Масло сливочное "Крестьянское"</Name>
+    <Price>329.90</Price>
+    <Stock>34</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P009</Id>
+    <Name>Кока-Кола 0.5л</Name>
+    <Price>95.00</Price>
+    <Stock>100</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P010</Id>
+    <Name>Сок "Добрый" апельсиновый 1л</Name>
+    <Price>159.00</Price>
+    <Stock>50</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P011</Id>
+    <Name>Вода "Святой источник" 1.5л</Name>
+    <Price>45.00</Price>
+    <Stock>120</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P012</Id>
+    <Name>Рис "Мистраль" круглозерный</Name>
+    <Price>129.00</Price>
+    <Stock>80</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P013</Id>
+    <Name>Макароны "Barilla" спагетти</Name>
+    <Price>199.00</Price>
+    <Stock>55</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P014</Id>
+    <Name>Сахар песок 1кг</Name>
+    <Price>69.99</Price>
+    <Stock>90</Stock>
+    <RequiresWeighing>false</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>true</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P015</Id>
+    <Name>Картофель</Name>
+    <Price>49.99</Price>
+    <Stock>300</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P016</Id>
+    <Name>Морковь</Name>
+    <Price>59.99</Price>
+    <Stock>200</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P017</Id>
+    <Name>Лук репчатый</Name>
+    <Price>39.99</Price>
+    <Stock>250</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P018</Id>
+    <Name>Помидоры</Name>
+    <Price>249.99</Price>
+    <Stock>100</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P019</Id>
+    <Name>Куриное филе</Name>
+    <Price>399.99</Price>
+    <Stock>50</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+  <Product>
+    <Id>P020</Id>
+    <Name>Свинина</Name>
+    <Price>499.99</Price>
+    <Stock>40</Stock>
+    <RequiresWeighing>true</RequiresWeighing>
+    <Weight>0</Weight>
+    <IsWeighed>false</IsWeighed>
+  </Product>
+</ArrayOfProduct>
