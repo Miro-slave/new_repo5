@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+  </Configurations>
+  <Project Path="ShopUI.Tests/ShopUI.Tests.csproj" Id="c22a3b82-8583-4b9d-aff1-5f989990c524" />
+  <Project Path="ShopUI/ShopUI.csproj" Id="7c4f4ac2-bb97-4929-ae1b-82b20a9c72d7">
+    <Platform Solution="Release|ARM64" Project="ARM64" />
+    <Build Solution="Release|ARM64" Project="false" />
+  </Project>
+</Solution>
